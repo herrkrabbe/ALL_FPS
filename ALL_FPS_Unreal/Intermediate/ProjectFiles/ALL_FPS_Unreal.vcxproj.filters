@@ -11,19 +11,20 @@
     <None Include="..\..\Source\ALL_FPS_UnrealEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
     </None>
-    <None Include="..\..\Config\DefaultEngine.ini">
-      <Filter>Config</Filter>
-    </None>
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ALL_FPS_Unreal">
@@ -38,5 +39,14 @@
     <ClInclude Include="..\..\Source\ALL_FPS_Unreal\ALL_FPS_Unreal.h">
       <Filter>Source\ALL_FPS_Unreal</Filter>
     </ClInclude>
+    <Filter Include="Source\ALL_FPS_Unreal\Character">
+      <UniqueIdentifier>{FDBEF0E9-ED61-3B14-9744-59599076299E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ALL_FPS_Unreal\Character\ALLCharacter.h">
+      <Filter>Source\ALL_FPS_Unreal\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ALL_FPS_Unreal\Character\ALLCharacter.cpp">
+      <Filter>Source\ALL_FPS_Unreal\Character</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Spillskolen/2024V Programming 2/dev/Unreal/Week3/ALL_FPS/ALL_FPS_Unreal/Content/ALL_FPS_Unreal/Maps/DevMap_Alexander.umap"
+			]
+		}
+	]
+}

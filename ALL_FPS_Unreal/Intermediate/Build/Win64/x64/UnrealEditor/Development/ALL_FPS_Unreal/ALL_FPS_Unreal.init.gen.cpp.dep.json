@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\spillskolen\\2024v programming 2\\dev\\unreal\\week3\\all_fps\\all_fps_unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\all_fps_unreal\\uht\\all_fps_unreal.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\spillskolen\\2024v programming 2\\dev\\unreal\\week3\\all_fps\\all_fps_unreal\\intermediate\\build\\win64\\x64\\all_fps_unrealeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\spillskolen\\2024v programming 2\\dev\\unreal\\week3\\all_fps\\all_fps_unreal\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\all_fps_unreal\\definitions.all_fps_unreal.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
