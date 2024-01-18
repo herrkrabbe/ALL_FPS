@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ALL_FPS_UnrealModuleRules
+build_property.ProjectDir = D:\Spillskolen\2024V Programming 2\dev\Unreal\Week3\ALL_FPS\ALL_FPS_Unreal\Intermediate\Build\BuildRulesProjects\ALL_FPS_UnrealModuleRules\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

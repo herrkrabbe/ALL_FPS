@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ALL_FPS_Unreal",
+			"Path": "..\\Source\\ALL_FPS_Unreal.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ALL_FPS_UnrealEditor",
+			"Path": "..\\Source\\ALL_FPS_UnrealEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

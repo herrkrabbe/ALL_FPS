@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Spillskolen\\2024V Programming 2\\dev\\Unreal\\Week3\\ALL_FPS\\ALL_FPS_Unreal\\Source\\ALL_FPS_Unreal\\ALL_FPS_Unreal.Build.cs",
+		"D:\\Spillskolen\\2024V Programming 2\\dev\\Unreal\\Week3\\ALL_FPS\\ALL_FPS_Unreal\\Source\\ALL_FPS_Unreal.Target.cs",
+		"D:\\Spillskolen\\2024V Programming 2\\dev\\Unreal\\Week3\\ALL_FPS\\ALL_FPS_Unreal\\Source\\ALL_FPS_UnrealEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

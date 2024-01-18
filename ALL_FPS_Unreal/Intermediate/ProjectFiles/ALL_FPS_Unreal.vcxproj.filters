@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ALL_FPS_Unreal.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ALL_FPS_Unreal.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ALL_FPS_UnrealEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ALL_FPS_Unreal">
+      <UniqueIdentifier>{8A65AD13-175A-324C-8AF2-6C754741087E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ALL_FPS_Unreal\ALL_FPS_Unreal.Build.cs">
+      <Filter>Source\ALL_FPS_Unreal</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ALL_FPS_Unreal\ALL_FPS_Unreal.cpp">
+      <Filter>Source\ALL_FPS_Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ALL_FPS_Unreal\ALL_FPS_Unreal.h">
+      <Filter>Source\ALL_FPS_Unreal</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
